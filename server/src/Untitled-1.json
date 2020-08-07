@@ -1,0 +1,1 @@
+{"stmt":"SELECT * FROM `users`;","header":["id","name","avatar","whatsapp","bio"],"rows":[["1","Dani","https://avatars0.githubusercontent.com/u/38793420?s=460&u=8e79281d9875f109a82f30da58fcbbb8043beb5d&v=4","1234","lorem impuiusem"]]}
